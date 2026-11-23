@@ -1,5 +1,22 @@
 {
- "assets": {},
+ "assets": {
+  "Carpet001": "4cc32eb5e17723b8c464f8ab3bebceec8b8ee07c",
+  "Carpet002": "7fc9a8793ced77a52e60237e838fdac16f7c1142",
+  "Carpet003": "2e8dbfcbd6bb45dee955988837d92460c9926d2b",
+  "Carpet004": "1b0bdc612f9e315091a94c1985279dbc93966f3d",
+  "Carpet005": "d3fe7c598b7e62a242e510679c06e01f4e16f733",
+  "Carpet006": "48150adcca96882c2d0458f918331093d2bea204",
+  "Carpet007": "4015bc201571fb6626660c60b741381e06ece8be",
+  "Carpet008": "5a20847e79324c75c953ec4d9e8cea14880876b6",
+  "Carpet009": "1a247a12b28c2c4954353776d3ed4a88f71187b1",
+  "Carpet010": "584c98a65f6dea8eabc4acaf8d5458377fe638e1",
+  "Carpet011": "8c887b5c64d2a0db7b02759136213db1cbbacb5b",
+  "Carpet012": "4d57e0432d6e8fc5b91a7e1d8b2265ccedf55f15",
+  "Carpet013": "032ef91db3a7171f51d714bc0acef36beaf9dd4d",
+  "Carpet014": "0cefa7b2ce61a7cd4efb7850ab7c4868f497784c",
+  "Carpet015": "7a375f33ed07e114af07a9d5914822575cdf7fb0",
+  "Carpet016": "796001b93f7b7d0be86ec24be33d9174b027a5e1"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
